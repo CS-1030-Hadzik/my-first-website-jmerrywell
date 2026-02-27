@@ -2,7 +2,7 @@ title: Jonathan Merrywell's website
 email: jonathanmerrywell@mail.weber.edu
 description: "This is the begining to my Programming career and to showcase
   my journy and progrsstion along the way."
-logo: "assets\images/original-d9c75676b2ca490e4f8353ab82671d92.webp"
+logo: assets\images/original-d9c75676b2ca490e4f8353ab82671d92.webp
 baseurl: "/cs-1030-hadzik-classroom-my-first-website-my_first_website" # the subpath of your site
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
