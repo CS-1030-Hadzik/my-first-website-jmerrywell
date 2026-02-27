@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Scott's Page"
+title: "Jonathan's Page"
 ---
 
-Scott's website
+Jonathan's website
 
 [Link to another page](./another-page.html).
 
