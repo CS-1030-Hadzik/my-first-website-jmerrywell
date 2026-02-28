@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Jonathan's Page"
+title: "My Programing development"
 ---
 
 Jonathan's website
 
-[Link to another page](./another-page.html).
+[Link to another page](https://steamcommunity.com/).
 
 There should be whitespace between paragraphs.
 
