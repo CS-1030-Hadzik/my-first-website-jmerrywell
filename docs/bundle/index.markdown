@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "My Programing development"
+title: "Jonathan's Page"
 ---
 
-Jonathan's website
+My Programing development Journey
 
-[Link to another page](https://steamcommunity.com/).
+[Useless link to Steam for no reason.](https://steamcommunity.com/).
 
 There should be whitespace between paragraphs.
 
