@@ -5,7 +5,7 @@ title: "Jonathan's Page"
 
 My Programing development Journey
 
-[Useless link to Steam for no reason.](https://steamcommunity.com/).
+[About My Projects](Projects.md).
 
 There should be whitespace between paragraphs.
 
