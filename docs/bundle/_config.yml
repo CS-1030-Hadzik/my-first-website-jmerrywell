@@ -3,7 +3,7 @@ auther: Jonathan Merrywell
 email: jonathanmerrywell@mail.weber.edu
 description: "My name is Jonathan Meryywell and this is the begining to my Programming career and to showcase
   my journy and progression along the way."
-logo: assets\images\little_dragon.png
+logo: \assets\images\little_dragon.png
 baseurl: "/cs-1030-hadzik-classroom-my-first-website-my_first_website" # the subpath of your site
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
